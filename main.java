@@ -21,7 +21,8 @@ public class main {
                     InvertirG_Punto2.invertir(cadena);
                     break;
                 case 2:
-                    //Logica punto Salomé
+                    punto9 p9= new punto9();
+                    p9.menu();
                     break;
                 case 3:
                     System.out.println("Saliendo del programa...");
